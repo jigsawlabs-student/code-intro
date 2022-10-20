@@ -1,0 +1,223 @@
+Country,Region,Gdp,Year
+Liechtenstein,Europe,169049.0,2019.0
+Monaco,Europe,173688.0,2020.0
+Luxembourg,Europe,135683.0,2021.0
+Bermuda,Americas,110870.0,2021.0
+Ireland,Europe,99152.0,2021.0
+Norway,Europe,89203.0,2021.0
+Switzerland,Europe,93457.0,2021.0
+Isle of Man,Europe,86482.0,2019.0
+Cayman Islands,Americas,85347.0,2021.0
+Qatar,Asia,61276.0,2021.0
+Singapore,Asia,72794.0,2021.0
+United States,Americas,69288.0,2021.0
+Channel Islands,Europe,74463.0,2007.0
+Iceland,Europe,68384.0,2021.0
+Australia,Oceania,59934.0,2021.0
+Faroe Islands,Europe,66321.0,2020.0
+Denmark,Europe,67803.0,2021.0
+Canada,Americas,52051.0,2021.0
+Sweden,Europe,60239.0,2021.0
+Netherlands,Europe,58061.0,2021.0
+Israel,Asia,51430.0,2021.0
+Greenland,Americas,54570.0,2020.0
+Austria,Europe,53268.0,2021.0
+Finland,Europe,53983.0,2021.0
+Belgium,Europe,51768.0,2021.0
+Hong Kong,Asia,49661.0,2021.0
+British Virgin Islands,Americas,,
+Germany,Europe,50802.0,2021.0
+United Arab Emirates,Asia,36285.0,2020.0
+San Marino,Europe,45516.0,2020.0
+United Kingdom,Europe,47334.0,2021.0
+New Zealand,Oceania,48802.0,2021.0
+Brunei,Asia,31723.0,2021.0
+France,Europe,43519.0,2021.0
+Andorra,Europe,43048.0,2021.0
+U.S. Virgin Islands,Americas,39552.0,2020.0
+Puerto Rico,Americas,31430.0,2020.0
+Kuwait,Asia,24812.0,2020.0
+Taiwan,Asia,,
+New Caledonia,Oceania,34695.0,2020.0
+Guam,Oceania,34624.0,2020.0
+Japan,Asia,39285.0,2021.0
+Italy,Europe,35551.0,2021.0
+Macau,Asia,45422.0,2021.0
+South Korea,Asia,34758.0,2021.0
+Malta,Europe,33257.0,2021.0
+Bahamas,Americas,28239.0,2021.0
+Aruba,Americas,23384.0,2020.0
+Cyprus,Asia,30799.0,2021.0
+Slovenia,Europe,29201.0,2021.0
+Estonia,Europe,27281.0,2021.0
+Spain,Europe,30116.0,2021.0
+Bahrain,Asia,22232.0,2021.0
+Czech Republic,Europe,26379.0,2021.0
+Saudi Arabia,Asia,23586.0,2021.0
+Portugal,Europe,24262.0,2021.0
+Turks and Caicos Islands,Americas,24047.0,2021.0
+Lithuania,Europe,23433.0,2021.0
+Oman,Asia,16439.0,2021.0
+Iran,Asia,2757.0,2020.0
+Latvia,Europe,20642.0,2021.0
+Saint Martin (French part),Americas,21459.0,2014.0
+Greece,Europe,20277.0,2021.0
+Trinidad and Tobago,Americas,15243.0,2021.0
+Northern Mariana Islands,Oceania,20660.0,2019.0
+Slovakia,Europe,21088.0,2021.0
+Seychelles,Africa,13307.0,2021.0
+French Polynesia,Oceania,20183.0,2020.0
+Uruguay,Americas,17021.0,2021.0
+Barbados,Americas,17034.0,2021.0
+Sint Maarten (Dutch part),Americas,28988.0,2018.0
+Saint Kitts and Nevis,Americas,18230.0,2021.0
+Poland,Europe,17841.0,2021.0
+Hungary,Europe,18773.0,2021.0
+Guyana,Americas,9375.0,2021.0
+Croatia,Europe,17399.0,2021.0
+Anguilla,Americas,,
+Antigua and Barbuda,Americas,14901.0,2021.0
+Panama,Americas,14517.0,2021.0
+Cook Islands,Oceania,,
+Curaçao,Americas,16110.0,2021.0
+Romania,Europe,14862.0,2021.0
+Chile,Americas,16503.0,2021.0
+Maldives,Asia,8995.0,2021.0
+Russia,Europe,12173.0,2021.0
+Argentina,Americas,10729.0,2021.0
+Montserrat,Americas,,
+Malaysia,Asia,11371.0,2021.0
+Costa Rica,Americas,12509.0,2021.0
+China,Asia,12556.0,
+American Samoa,Oceania,12845.0,2020.0
+Palau,Oceania,14244.0,2021.0
+Bulgaria,Europe,11635.0,2021.0
+Worl,World,12263.0,2021.0
+Turkmenistan,Asia,7612.0,2019.0
+Kazakhstan,Asia,10042.0,2021.0
+Equatorial Guinea,Africa,8462.0,2021.0
+Mexico,Americas,9926.0,2021.0
+Saint Lucia,Americas,9571.0,2021.0
+Dominican Republic,Americas,8604.0,2021.0
+Grenada,Americas,9929.0,2021.0
+Gabon,Africa,8017.0,2021.0
+Nauru,Oceania,12252.0,2021.0
+Turkey,Asia,9587.0,2021.0
+Montenegro,Europe,9367.0,2021.0
+Cuba,Americas,9478.0,2020.0
+Serbia,Europe,9215.0,2021.0
+Mauritius,Africa,8812.0,2021.0
+Brazil,Americas,7519.0,2021.0
+Belarus,Europe,7304.0,2021.0
+Saint Vincent and theGrenadines,Americas,7997.0,2021.0
+Dominica,Americas,7560.0,2021.0
+Thailand,Asia,7233.0,2021.0
+Botswana,Africa,7348.0,2021.0
+Peru,Americas,6692.0,2021.0
+Azerbaijan,Asia,5384.0,2021.0
+Bosnia and Herzegovina,Europe,6916.0,2021.0
+North Macedonia,Europe,6721.0,2021.0
+Georgia,Asia,5042.0,2021.0
+South Africa,Africa,6994.0,2021.0
+Iraq,Asia,5048.0,2021.0
+Colombia,Americas,6131.0,2021.0
+Ecuador,Americas,5935.0,2021.0
+Albania,Europe,6494.0,2021.0
+Belize,Americas,4421.0,2021.0
+Libya,Africa,6018.0,2021.0
+Armenia,Asia,4670.0,2021.0
+Tuvalu,Oceania,5292.0,2021.0
+Jamaica,Americas,4587.0,2021.0
+Paraguay,Americas,5400.0,2021.0
+Moldova,Europe,5315.0,2021.0
+Fiji,Oceania,5086.0,2021.0
+Kosovo,Europe,4987.0,2021.0
+Tonga,Oceania,4625.0,2020.0
+El Salvador,Americas,4409.0,2021.0
+Guatemala,Americas,5026.0,2021.0
+Suriname,Americas,4836.0,2021.0
+Ukraine,Europe,4836.0,2021.0
+Marshall Islands,Oceania,4171.0,2021.0
+Namibia,Africa,4729.0,2021.0
+Indonesia,Asia,4292.0,2021.0
+Jordan,Asia,4406.0,2021.0
+Mongolia,Asia,4535.0,2021.0
+Egypt,Africa,3876.0,2021.0
+Vietnam,Asia,3694.0,2021.0
+Algeria,Africa,3765.0,2021.0
+Samoa,Oceania,3939.0,2021.0
+Micronesia,Oceania,3477.0,2021.0
+Eswatini,Africa,4215.0,2021.0
+Morocco,Africa,3497.0,2021.0
+Tunisia,Africa,3924.0,2021.0
+Angola,Africa,2138.0,2021.0
+Djibouti,Africa,3364.0,2021.0
+Bolivia,Americas,3415.0,2021.0
+Cape Verde,Africa,3446.0,2021.0
+Philippines,Asia,3549.0,2021.0
+Bhutan,Asia,3001.0,2020.0
+Palestine,Asia,3664.0,2021.0
+Papua New Guinea,Oceania,2916.0,2021.0
+Sri Lanka,Asia,3815.0,2021.0
+Venezuela,Americas,16056.0,2014.0
+Vanuatu,Oceania,3127.0,2021.0
+Honduras,Americas,2831.0,2021.0
+Congo,Africa,2214.0,2021.0
+Bangladesh,Asia,2503.0,2021.0
+Lebanon,Asia,2670.0,2021.0
+India,Asia,2277.0,2021.0
+Zimbabwe,Africa,1737.0,2021.0
+Ivory Coast,Africa,2579.0,2021.0
+Nicaragua,Americas,2091.0,2021.0
+Ghana,Africa,2445.0,2021.0
+Mauritania,Africa,1723.0,2021.0
+Nigeria,Africa,2085.0,2021.0
+Kenya,Africa,2007.0,2021.0
+Uzbekistan,Asia,1983.0,2021.0
+Solomon Islands,Oceania,2337.0,2021.0
+São Tomé and Príncipe,Africa,2449.0,2021.0
+Laos,Asia,2551.0,2021.0
+East Timor,Asia,1458.0,2021.0
+Cambodia,Asia,1591.0,2021.0
+Kiribati,Oceania,1515.0,2020.0
+Haiti,Americas,1815.0,2021.0
+Pakistan,Asia,1538.0,2021.0
+Cameroon,Africa,1662.0,2021.0
+Senegal,Africa,1607.0,2021.0
+Kyrgyzstan,Asia,1276.0,2021.0
+Benin,Africa,1428.0,2021.0
+Zambia,Africa,1121.0,2021.0
+Guinea,Africa,1174.0,2021.0
+Comoros,Africa,1495.0,2021.0
+Nepal,Asia,1223.0,2021.0
+Tanzania,Africa,1136.0,2021.0
+Lesotho,Africa,1167.0,2021.0
+Uganda,Africa,858.0,2021.0
+Myanmar,Asia,1187.0,2021.0
+Ethiopia,Africa,944.0,2021.0
+Zanziba,Africa,,
+Tajikistan,Asia,897.0,2021.0
+Togo,Africa,992.0,2021.0
+Sudan,Africa,764.0,2021.0
+Rwanda,Africa,834.0,2021.0
+Syria,Asia,1266.0,2018.0
+Yemen,Asia,691.0,2021.0
+Mali,Africa,918.0,2021.0
+Guinea-Bissau,Africa,813.0,2021.0
+Gambia,Africa,836.0,2021.0
+Burkina Faso,Africa,918.0,2021.0
+Chad,Africa,696.0,2021.0
+Liberia,Africa,673.0,2021.0
+DR Congo,Africa,584.0,2021.0
+Eritrea,Africa,643.0,2011.0
+North Korea,Asia,,
+Afghanistan,Asia,517.0,2020.0
+Niger,Africa,595.0,2021.0
+Mozambique,Africa,500.0,2021.0
+Somalia,Africa,446.0,2021.0
+Malawi,Africa,643.0,2021.0
+Madagascar,Africa,515.0,2021.0
+Central African Republic,Africa,512.0,2021.0
+Sierra Leone,Africa,516.0,2021.0
+South Sudan,Africa,1120.0,2015.0
+Burundi,Africa,237.0,2021.0
